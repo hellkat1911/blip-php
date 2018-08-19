@@ -1,9 +1,9 @@
 # Blip PHP
-###### An ultra-light MVC framework for your PHP project
+##### An ultra-light MVC framework for your PHP/MySQL project
 
-###### Deployment:
+##### Deployment:
 
-I like to use Homestead for PHP development so these instructions are based on that.
+I like to use Homestead for PHP development so these instructions are based on that. As stated above, the framework is useful for small or medium projects, anything larger you'd probably want to go with Laravel or similar. The default database is MySQL and as such utilizes PDO, but it can be tweaked for PostgreSQL and others. Lastly, I did this for fun to help with structuring my future MVC projects, any comments/suggestions/fixes are appreciated!
 
 1) Clone the repo into your Homestead shared folder (here it's ~/Code):
 
