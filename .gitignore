@@ -1,0 +1,10 @@
+.DS_Store
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+node_modules/
+vendor
+.env
+todo*.txt
